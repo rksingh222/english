@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            height: 100%;
+            width: 100%;
+            background: #f5f6fa;
+        }
+        div{
+            color: #67727e;
+            font-size: 20px;
+            padding-left: 20px;
+        }
+    
+        table{
+            width: 80%;
+        }
+        tr,td{
+            text-align: left;
+        }
+        .date{
+            text-align: left;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <table>
+            <tr><td colspan="2" class="date">Date - 29 Dec 2022</td></tr>
+            <tr><td colspan="3"></td></tr>
+            <tr><td colspan="3"></td></tr>
+            <tr>
+                <th>English Word</th><th>English Meaning</th>
+            </tr>
+            <tr><td>Avalanche</td><td>a mass of snow, ice, and rocks falling rapidly down a mountainside/a sudden arrival or occurrence of something in overwhelming quantities.</td></tr>
+            <tr><td>Liability</td><td>something a person or company owes, usually a sum of money</td></tr>
+            <tr><td>Ascertain </td><td>to find out</td></tr>
+            <tr><td>Apportioning </td><td>divide and share out</td></tr>
+            <tr><td>Liquidate </td><td>wind up the affairs of (a business) by ascertaining liabilities and apportioning assets.</td></tr>
+            <tr><td>Rational</td><td>based on or in accordance with reason or logic.</td></tr>
+            <tr><td>Espionage</td><td>the practice of spying or of using spies, typically by governments to obtain political and military information</td></tr>
+        </table>
+    </div>
+</body>
+
+</html>
+</body>
+</html>
